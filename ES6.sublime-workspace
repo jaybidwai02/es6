@@ -1,0 +1,1134 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"tabi",
+				"tabindex	(recruiter_revamp.js)"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"input",
+				"inputElement	(recruiter_revamp.js)"
+			],
+			[
+				"inpu",
+				"inputElement	(recruiter_revamp.js)"
+			],
+			[
+				"las",
+				"lastScrollTop"
+			],
+			[
+				"assig",
+				"assiginPagination"
+			],
+			[
+				"lay",
+				"layzyloadClass"
+			],
+			[
+				"view",
+				"viewportHeight"
+			],
+			[
+				"offs",
+				"offset"
+			],
+			[
+				"getW",
+				"getWinHeight"
+			],
+			[
+				"scrollT",
+				"scrollTop"
+			],
+			[
+				"glo",
+				"globalVarFun"
+			],
+			[
+				"showS",
+				"showSignout"
+			],
+			[
+				"hide",
+				"hideSignout"
+			],
+			[
+				"fo",
+				"formControl"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"form",
+				"formName"
+			],
+			[
+				"blu",
+				"blur"
+			],
+			[
+				"temp",
+				"tempObj"
+			],
+			[
+				"cus",
+				"customScroll"
+			],
+			[
+				"leng",
+				"length	(recruiter_revamp.js)"
+			],
+			[
+				"hi",
+				"hideDD"
+			],
+			[
+				"show",
+				"showDD"
+			],
+			[
+				"opt",
+				"optionalDD"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"inpV",
+				"inpValueForSearch"
+			],
+			[
+				"remov",
+				"removeAttr"
+			],
+			[
+				"vis",
+				"visible	(_global.scss)"
+			],
+			[
+				"mis",
+				"misTarget"
+			],
+			[
+				"_m",
+				"_misTarget"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"gl",
+				"globalObj"
+			],
+			[
+				"info",
+				"infoedge	(home.html)"
+			],
+			[
+				"consol",
+				"console.log()"
+			],
+			[
+				"compan",
+				"companyLogo	(testimonial.html)"
+			],
+			[
+				"login",
+				"loginLayer"
+			],
+			[
+				"del",
+				"deleteCookie"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"lo",
+				"loginLayer"
+			],
+			[
+				"assi",
+				"assignInventory"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"ad",
+				"adjWidth"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"close",
+				"closeSuccess"
+			],
+			[
+				"clos",
+				"closeModal"
+			],
+			[
+				"mob",
+				"mobLayers	(registrationLayer.html)"
+			],
+			[
+				"moda",
+				"modal-dialog"
+			],
+			[
+				"suc",
+				"successModal"
+			],
+			[
+				"cb",
+				"cbopacity"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"com",
+				"companyLogo"
+			],
+			[
+				"can",
+				"candidates"
+			],
+			[
+				"city",
+				"cityDD	(recruiter_revamp.js)"
+			],
+			[
+				"firs",
+				"firstInpCont"
+			],
+			[
+				"par",
+				"parents"
+			],
+			[
+				"ke",
+				"keydown"
+			],
+			[
+				"hidV",
+				"hidValCity"
+			],
+			[
+				"tab",
+				"tabindex"
+			],
+			[
+				"pare",
+				"parents('form"
+			],
+			[
+				"req",
+				"required:1001"
+			],
+			[
+				"sele",
+				"selectBox"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"sel",
+				"selectBox"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"keyd",
+				"keydown"
+			],
+			[
+				"vie",
+				"viewportHeight"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"disIbOnly",
+				"disIbOnlyMob	(_global.scss)"
+			],
+			[
+				"head",
+				"headDesc	(signedout.html)"
+			],
+			[
+				"prod",
+				"productsArticle	(home.html)"
+			],
+			[
+				"bot",
+				"bottomShadow	(_global.scss)"
+			],
+			[
+				"sect",
+				"section	Tag"
+			],
+			[
+				"hidIn",
+				"hidInpName"
+			],
+			[
+				"mes",
+				"messageCode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"fre",
+				"freeFlag"
+			],
+			[
+				"ma",
+				"maxlength	Attr"
+			],
+			[
+				"ta",
+				"tabindex"
+			],
+			[
+				"firstI",
+				"firstInp"
+			],
+			[
+				"paren",
+				"parents	.parents()"
+			],
+			[
+				"pro",
+				"prop	.prop() - single"
+			],
+			[
+				"trig",
+				"trigger('blur"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"Er",
+				"ErrorMessage	(home.html)"
+			],
+			[
+				"log",
+				"loginRes"
+			],
+			[
+				"serv",
+				"serverError"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"get",
+				"getStart"
+			],
+			[
+				"job",
+				"jobPosting	(product.html)"
+			],
+			[
+				"bo",
+				"bottom	(_homePage.scss)"
+			],
+			[
+				"usern",
+				"username	URLUtils"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"inp",
+				"inputElement"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"thr",
+				"throttle"
+			],
+			[
+				"th",
+				"throttle"
+			],
+			[
+				"back",
+				"background	(_global.scss)"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"per",
+				"personInfo	(testimonial.html)"
+			],
+			[
+				"comm",
+				"commonBanner	(testimonial.html)"
+			],
+			[
+				"fis",
+				"firstInpCont"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"fed",
+				"feedBackOverlay	(home.html)"
+			],
+			[
+				"setTim",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"regFor",
+				"regform	(testimonial.html)"
+			],
+			[
+				"test",
+				"testimonialPage	(testimonial.html)"
+			],
+			[
+				"ng",
+				"ngProduct	(home.html)"
+			],
+			[
+				"pl",
+				"placeholder"
+			],
+			[
+				"secIn",
+				"secInpCont	(home.html)"
+			],
+			[
+				"ngL",
+				"ngLogo"
+			],
+			[
+				"feed",
+				"feedBackOverlay	(home.html)"
+			],
+			[
+				"rego",
+				"regOverlay"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"prett",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"gi",
+				"GitStatus: Unmerged files"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd c:",
+			"grunt",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ES6"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/naukri/static2/207/src/jass/callee.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/jass/accordion_v1.0.1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_global.scss",
+		"/C/xampp/htdocs/naukri/static2/202/src/jass/tupleDropDown.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/customDropdown_v7.4.1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/home.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/recruiter_revamp.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp49769/home/farhan/niloginmnr/current/app/views/includes/facebookPixel.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/innerScript_56.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_homePage.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_homePageMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_contactPage.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_contactPageMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_globalMobile.scss",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp05585/home/farhan/niloginmnr/current/app/views/includes/zopimChat.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp35074/home/farhan/niloginmnr/current/app/views/login/home.en.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/feedBackOverlay.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp35378/home/farhan/niloginmnr/current/app/views/logout/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp01358/home/farhan/niloginmnr/current/app/views/includes/feedBackOverlay.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp37234/home/farhan/niloginmnr/current/app/views/feedbacklayer/home.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp15125/home/farhan/htdocs/s/2/208/src/j/recruiter_revamp_v1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/SignOutfeedBackOverlay.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp20513/home/priyank/nistatic/current/niresman/js/Page1B_1.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp16846/home/priyank/nistatic/current/niincludes/commonjs/socialLogin_1.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp05361/home/priyank/nistatic/current/niincludes/commonjs/socialLogin_1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/registrationOverlay.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp07647/home/farhan/niloginmnr/current/app/views/includes/feedBackOverlay.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/dropDownListValue.js",
+		"/C/Users/jay.bidwai/Desktop/citylistttttttttttt.js",
+		"/C/Users/jay.bidwai/Desktop/FinalCityList",
+		"/C/Users/jay.bidwai/Desktop/combinedEmpReg_min_56.js",
+		"/C/Users/jay.bidwai/Desktop/city.txt",
+		"/C/xampp/htdocs/naukri/static2/207/src/jass/customDropdown_v7.4.1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/customScroll_v1.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp55121/home/farhan/niloginmnr/current/app/views/includes/registrationOverlay.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp56883/home/farhan/niloginmnr/current/app/views/includes/contactUsProduct.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp56706/home/farhan/niloginmnr/current/app/views/includes/contactUs.phtml",
+		"/C/xampp/htdocs/naukri/static2/B2B files/PAT/dsk/1.Contact us- Open Smoothly",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v17.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v9.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v8.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v7.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v6.js",
+		"/C/Users/jay.bidwai/Desktop/aa.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/jass/calleeFunc.js",
+		"/C/xampp/htdocs/naukri/static2/207/Gruntfile.js",
+		"/C/Users/jay.bidwai/Desktop/demo/b2b208/plugins3_rdx_v11.js",
+		"/C/Users/jay.bidwai/Desktop/demo/b2b208/plugins3_rdx_v12.js",
+		"/C/Users/jay.bidwai/Desktop/demo/New folder/v6.1.0-beta2/plugins3_rdx_v11.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v11.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v10.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v12.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v14.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v15.js",
+		"/C/xampp/htdocs/naukri/static2/207/src/j/plugins3_rdx_v16.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_headerFooter.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_headerFooterMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_testimonialPage.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/welcomeback.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/header.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/contactUs.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp51428/home/farhan/nilogin/current/app/views/includes/contactUs.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp38349/home/farhan/nilogin/current/app/views/login/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp39757/home/farhan/nilogin/current/vendor/PanelManager/templates/MNR/gnb_mnr_header.tpl",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/footer.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/placeholder_ie8.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp38009/home/farhan/nilogin/current/app/views/includes/registrationOverlay.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/signedout.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp13504/home/farhan/nilogin/current/app/views/includes/contactUs.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp12233/home/farhan/nilogin/current/app/views/login/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp50373/home/farhan/nilogin/current/app/views/contactus/home.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp48556/home/farhan/nilogin/current/app/views/empspeak/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/testimonial.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp57940/home/farhan/nilogin/current/app/views/postajob/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/PCS.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp00439/home/farhan/nilogin/current/app/views/pcs/home.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp00254/home/farhan/nilogin/current/app/views/employerbranding/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/EB.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp59694/home/farhan/nilogin/current/app/views/cvsearch/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/CV.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_productMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_product.scss",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp02745/home/farhan/nilogin/current/app/views/logout/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp02256/home/farhan/nilogin/current/app/views/welcomeback/welcomeback.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp00655/home/farhan/nilogin/current/app/views/pcs/product.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/debug.log",
+		"/C/xampp/htdocs/naukri/static2/208/src/JobAdd.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/registrationLayer.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp42269/home/farhan/nilogin/current/app/views/login/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp41677/home/farhan/nilogin/current/app/views/includes/contactUs.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/contactUs - Copy.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp46802/home/farhan/htdocs/s/2/208/src/j/recruiter_revamp_v1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_testimonialPageMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/carousel.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/contact-us.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp31204/home/farhan/htdocs/s/2/208/src/j/recruiter_revamp_v1.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/loginOverlay.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp31843/home/farhan/nilogin/current/app/views/login/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp30928/home/farhan/nilogin/current/app/views/contactus/contact-us.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/loginLayerMob.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_signedoutMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_signedout.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/recruiter_home_v1.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_welcomeBack.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/_welcomeBackMobile.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/testimonialLive.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/welcomeback2Prod.html",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp04521/home/vishnu/niloginmnr/current/app/views/welcomeback/welcomeback.phtml",
+		"/C/xampp/htdocs/naukri/static2/200/src/j/job_search_rev_common_v10.js",
+		"/C/xampp/htdocs/naukri/static2/200/src/j/jquery_common_v1.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp12779/home/vishnu/niloginmnr/current/app/views/welcomeback/welcomeback.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp18347/home/vishnu/niloginmnr/current/app/views/empspeak/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/j/recruiter_revamp_v1.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp13044/home/vishnu/niloginmnr/current/app/views/login/home.en.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp08167/home/vikash/nilogin/current/app/views/registrationLayer/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/sass/partial/welcomeBackMobile.scss",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp20292/home/vikash/nilogin/current/app/views/feedbacklayer/home.phtml",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp28348/home/vikash/nilogin/current/app/views/loginlayer/home.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/c/recruiter_home_v1.css",
+		"/C/xampp/htdocs/naukri/static2/208/src/a.json",
+		"/C/xampp/htdocs/naukri/static2/208/src/fdbkLayerMob.html",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/recruiter_revamp - Copy.js",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/recruiter_revampbackup.js",
+		"/C/Users/jay.bidwai/Desktop/mob.scss",
+		"/C/xampp/htdocs/naukri/static2/208/src/jass/commonValidation_JQ_v8.js",
+		"/C/Users/jay.bidwai/AppData/Local/Temp/scp04930/home/farhan/nilogin/current/app/views/includes/productGetStartedNow.phtml",
+		"/C/xampp/htdocs/naukri/static2/208/src/includes/productGetStartedNow.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\naukri\\static2\\207,C:\\xampp\\htdocs\\naukri\\static2\\207\\src\\j",
+			"C:\\xampp\\htdocs\\naukri\\static2\\207,C:\\xampp\\htdocs\\naukri\\static2\\207\\src\\jass",
+			"C:\\xampp\\htdocs\\naukri\\static2\\207",
+			"C:\\xampp\\htdocs\\naukri\\static2",
+			"C:\\xampp\\htdocs\\naukri\\static2\\207\\src\\",
+			"C:\\xampp\\htdocs\\naukri\\static2\\207\\src\\jass",
+			"C:\\xampp\\htdocs\\naukri\\static2\\207",
+			"",
+			"C:\\xampp\\htdocs\\naukri\\static2\\",
+			"C:\\xampp\\htdocs\\naukri\\static2\\202\\src\\jass",
+			"C:\\xampp\\htdocs\\naukri\\static2\\202\\src",
+			"C:\\xampp\\htdocs\\naukri\\static2\\202\\src\\jass",
+			"C:\\xampp\\htdocs\\naukri\\static2\\202\\src",
+			"C:\\xampp\\htdocs\\naukri\\static2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pi",
+			"opts.exp",
+			"opts.col",
+			"opts",
+			"collapse",
+			"accordion",
+			"console.log",
+			"755555555",
+			"X.id",
+			"hideDD",
+			"brB",
+			"setInputText",
+			"firstIn",
+			"keyu",
+			"foundInSearch",
+			"setMobAdjestment",
+			"ngAnimationFunc",
+			"selectTestimonial",
+			"assiginPagination",
+			"pagination",
+			"flag",
+			"sprite",
+			"data-logo",
+			"isInViewPort",
+			"scrollTop",
+			"isInViewPort",
+			"lastScrollTop",
+			"thr",
+			"$('.showSignout')",
+			"$('.hideSignout')",
+			"$('.notInSignOut')",
+			"signou",
+			"fdbkProSug",
+			"setEvents",
+			"callva",
+			"firsti",
+			"createAsyncScript",
+			"socialLogin",
+			"SocialLogin",
+			"socialLogin",
+			"resmanPageLogin",
+			"socialLogin",
+			"SocialLogin",
+			"socialLogin",
+			"farhan",
+			"formcon",
+			"name=",
+			"type=",
+			"setEvents",
+			"countryCode",
+			":",
+			"\"\"",
+			":",
+			",",
+			":",
+			"dhofa",
+			"keyDownEv",
+			"prop('disabled', 'disabled');",
+			"yyy",
+			"customScroll",
+			"customScroll:true",
+			"maxHeight : 225",
+			"countryDD",
+			"customScroll",
+			"maxHeight : 1000",
+			"max_height",
+			"optionalDD",
+			"custSug",
+			"optionalDD",
+			"hideDD",
+			"focusEv",
+			"keyUpEv",
+			"showDD",
+			"onke",
+			"hideDD",
+			"focusEv",
+			"focus",
+			"hide",
+			"showDD",
+			"assignD",
+			"keyup",
+			"showDD",
+			"focusEv",
+			"focus",
+			"JAY",
+			"liMousehover",
+			"maxHeight : 500",
+			"assignDD",
+			"sugHgt",
+			"maxHeight",
+			"maxh",
+			"first active",
+			"firstHighlight",
+			"active",
+			"pick",
+			"keyd",
+			"customScroll",
+			"assignDD",
+			"DD",
+			"firstI",
+			"countryDD",
+			"X.obj.optionalDD",
+			"blurE",
+			"hd",
+			"blurEv",
+			"keyDownEv",
+			"Ary",
+			"blurE",
+			"blure",
+			"keyDownEv",
+			"X.inpElm.val()",
+			"X.obj.optionalDD",
+			"blurEv",
+			"searchData",
+			"initSearch",
+			"keyUpEv",
+			"keyDownEv",
+			"key",
+			"blurEv",
+			"createRecentDiv",
+			"desTag",
+			"form",
+			"callva",
+			"selectBox",
+			"recruter_revamp_error_list",
+			"callva",
+			"CurrentLocationListData",
+			"resdexVariantLocationList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"|XX|",
+			"\\n|XX|\\n",
+			",",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 59.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "ES6.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"t",
+				"C:\\xampp\\htdocs\\template\\template.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\angular_Pro\\Pro_Angular.sublime-project"
+			],
+			[
+				"an",
+				"C:\\xampp\\htdocs\\angular\\htdoc_angular.sublime-project"
+			],
+			[
+				"pr",
+				"C:\\xampp\\htdocs\\angular_Pro\\Pro_Angular.sublime-project"
+			],
+			[
+				"tem",
+				"C:\\xampp\\htdocs\\template\\template.sublime-project"
+			],
+			[
+				"te",
+				"C:\\xampp\\htdocs\\template\\template.sublime-project"
+			],
+			[
+				"na",
+				"C:\\xampp\\htdocs\\naukri\\static2\\naukri.sublime-project"
+			],
+			[
+				"ng",
+				"C:\\study\\ng-book\\ng-book.sublime-project"
+			],
+			[
+				"sm",
+				"C:\\xampp\\htdocs\\naukri\\SMJLT\\SMJLT.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
